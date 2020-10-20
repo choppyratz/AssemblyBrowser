@@ -1,0 +1,9 @@
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\bin\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.deps.json
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\bin\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.dll
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\bin\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.pdb
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\obj\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.csprojAssemblyReference.cache
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\obj\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\obj\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.AssemblyInfo.cs
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\obj\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\obj\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.dll
+C:\Users\German\source\repos\AssemblyBrowserTestBuild\obj\Debug\netcoreapp3.1\AssemblyBrowserTestBuild.pdb

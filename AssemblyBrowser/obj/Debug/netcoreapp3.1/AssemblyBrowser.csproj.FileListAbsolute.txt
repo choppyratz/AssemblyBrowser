@@ -1,0 +1,9 @@
+C:\Users\German\source\repos\AssemblyBrowser\bin\Debug\netcoreapp3.1\AssemblyBrowser.deps.json
+C:\Users\German\source\repos\AssemblyBrowser\bin\Debug\netcoreapp3.1\AssemblyBrowser.dll
+C:\Users\German\source\repos\AssemblyBrowser\bin\Debug\netcoreapp3.1\AssemblyBrowser.pdb
+C:\Users\German\source\repos\AssemblyBrowser\obj\Debug\netcoreapp3.1\AssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\German\source\repos\AssemblyBrowser\obj\Debug\netcoreapp3.1\AssemblyBrowser.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\AssemblyBrowser\obj\Debug\netcoreapp3.1\AssemblyBrowser.AssemblyInfo.cs
+C:\Users\German\source\repos\AssemblyBrowser\obj\Debug\netcoreapp3.1\AssemblyBrowser.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\AssemblyBrowser\obj\Debug\netcoreapp3.1\AssemblyBrowser.dll
+C:\Users\German\source\repos\AssemblyBrowser\obj\Debug\netcoreapp3.1\AssemblyBrowser.pdb

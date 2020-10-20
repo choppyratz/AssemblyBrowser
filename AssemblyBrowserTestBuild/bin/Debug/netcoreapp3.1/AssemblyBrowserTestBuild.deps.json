@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AssemblyBrowserTestBuild/1.0.0": {
+        "runtime": {
+          "AssemblyBrowserTestBuild.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssemblyBrowserTestBuild/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
